@@ -1,0 +1,13 @@
+
+
+git clone - clone repo
+
+git add . - stage all your changes
+git add <filename> - stage individual file
+git commit -m "<commit name>"
+git push origin main
+
+collaboration best practices
+git branch - create branch
+git checkout <branchname> - hop on branch 
+
